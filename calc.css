@@ -1,0 +1,36 @@
+table {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    padding: 10px;
+    background-color: rgb(7, 77, 77);
+    border-radius: 30px;
+    
+}
+
+input {
+    width: 100%;
+    padding: 20px 30px;
+    background-color: rgb(154, 156, 154);
+    color: rgb(27, 27, 27);
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+#result{
+    background-color: aliceblue;
+    width: 190px;
+}
+
+input {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
